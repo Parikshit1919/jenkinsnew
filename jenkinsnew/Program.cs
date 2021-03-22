@@ -11,7 +11,7 @@ namespace jenkinsnew
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the jenkins:");
-            Console.WriteLine("Push test");
+            Console.WriteLine("Push test")
             Console.ReadKey();
         }
     }
